@@ -49,7 +49,7 @@ module.exports = {
     ]
   },
   resolve: {
-    extensions: ['*', '.js', '.jsx']
+    extensions: ['*', '.js', '.jsx', '.CSS']
   },
   devtool: "source-map",
   devServer: {
